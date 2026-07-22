@@ -149,3 +149,31 @@ color:#fff;
 background:#d4af37;
 color:#111;
 }
+.cards img{
+width:100%;
+height:220px;
+object-fit:cover;
+border-radius:10px;
+margin-bottom:15px;
+display:block;
+}
+
+#properties h2{
+text-align:center;
+margin:40px 0 20px;
+font-size:32px;
+}
+
+#properties .card{
+overflow:hidden;
+}
+
+#properties .card h3{
+margin-top:10px;
+font-size:24px;
+}
+
+#properties .card p{
+font-size:16px;
+line-height:1.6;
+}
